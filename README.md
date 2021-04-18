@@ -1,9 +1,20 @@
 # Tweaks-Themes-and-Icons-
+
 For Ubuntu gnome desktop Environment.
 
 ### How to Install and Change GNOME Theme in Linux
 
 
+### Install gnome-tweak-tool
+Open the terminal application and type the following :
+
+       sudo apt update
+       sudo apt install gnome-tweak-tool
+
+I also recommend that you install the following package:
+
+       sudo apt install gnome-shell-extensions
+       
 By changing your GNOME theme, you can give your Linux desktop a brand-new look and feel.
 
 In this tutorial, I’ll show you how to install new themes on a Linux system running GNOME desktop environment.
